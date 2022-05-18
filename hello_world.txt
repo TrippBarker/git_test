@@ -1,1 +1,2 @@
 Hello World! This is a text file for testing my first repo in GitHub!
+This is an added line of text, I am testing git commit!
